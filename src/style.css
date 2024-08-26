@@ -6,7 +6,7 @@ body {
 }
 
 a {
-  color: black;
+  color: gray;
 }
 
 .container {
@@ -57,7 +57,7 @@ form {
 
 .submit-button {
   margin-left: 10px;
-  background: #885df1;
+  background: gray;
   color: white;
   border: none;
   width: 150px;
